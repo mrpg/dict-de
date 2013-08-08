@@ -1,4 +1,4 @@
 dict-de
 =======
 
-Ja, German Wörterbuch
+Ja, German Wörterbuch (Dictionary) extracted from German Wikipedia
